@@ -1,0 +1,46 @@
+body {
+    background: url(Fondo3.jpg);
+}
+
+.divClass h1{
+    color:tomato;
+}
+.divClass h3{
+    color: black;
+}
+.divClass h4{
+    color: white;
+}
+.divClass{
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 500px;
+
+}
+a {
+    color: white;
+}
+#thirdDiv {
+    margin-left: auto;
+    margin-right: auto;
+    height: 600px;
+    max-width: 500px;
+    background: beige;
+    padding: 50px;
+    border:solid ;
+}
+.divClass #spanId {
+    color: white;
+    font-size: 18px;
+    margin: 50px;
+}
+.vertical-conteiner{
+    height: 300px;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-align-items: center;
+          align-items: center;
+    -webkit-justify-content: center;
+          justify-content: center;
+}
